@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:compressed_banana_three"
+    },
+    {
+      "item": "bananabreadmod:compressed_banana_three"
+    },
+    {
+      "item": "bananabreadmod:compressed_banana_three"
+    },
+    {
+      "item": "bananabreadmod:compressed_banana_three"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "bananabreadmod:compressed_banana_four"
+  }
+}

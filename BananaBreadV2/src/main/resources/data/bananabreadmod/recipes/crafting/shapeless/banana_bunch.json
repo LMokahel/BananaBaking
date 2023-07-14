@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "bananabreadmod:banana_bunch"
+  }
+}

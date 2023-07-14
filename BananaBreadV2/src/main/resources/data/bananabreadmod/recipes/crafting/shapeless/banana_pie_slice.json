@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:banana_pie"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "bananabreadmod:banana_pie_slice"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "bananabreadmod:baking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/wheat"
+    },
+    {
+      "tag": "forge:crops/wheat"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "output": {
+    "count": 5,
+    "item": "bananabreadmod:banana_cookie"
+  }
+}

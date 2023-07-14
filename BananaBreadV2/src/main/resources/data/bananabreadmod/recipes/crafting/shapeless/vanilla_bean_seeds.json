@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:vanilla_bean"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "bananabreadmod:vanilla_bean_seeds"
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"textures": {
+		"0": "bananabreadmod:block/classic_pizza_top",
+		"1": "bananabreadmod:block/pizza_bottom",
+		"2": "bananabreadmod:block/pizza_side",
+		"4": "bananabreadmod:block/pizza_inside_two",
+		"particle": "bananabreadmod:block/classic_pizza_top"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 1],
+			"to": [15, 3, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 9.14286, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 9.14286, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"up": {"uv": [6.85714, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [6.85714, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

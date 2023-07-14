@@ -1,0 +1,27 @@
+{
+  "type": "bananabreadmod:baking",
+  "ingredients": [
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:crops/wheat"
+    },
+    {
+      "tag": "forge:crops/wheat"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "bananabreadmod:banana_pie"
+  }
+}

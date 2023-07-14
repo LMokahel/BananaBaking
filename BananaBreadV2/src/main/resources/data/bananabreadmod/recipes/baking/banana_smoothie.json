@@ -1,0 +1,21 @@
+{
+  "type": "bananabreadmod:baking",
+  "ingredients": [
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "tag": "minecraft:fox_food"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "bananabreadmod:banana_smoothie"
+  }
+}

@@ -1,0 +1,36 @@
+{
+ "item.bananabreadmod.banana_bread": "Banana Bread",
+ "item.bananabreadmod.banana_dough": "Banana Dough",
+ "item.bananabreadmod.banana_pie": "Banana Pie",
+ "item.bananabreadmod.banana_fried": "Fried Banana",
+ "item.bananabreadmod.banana_oiled": "Oiled Banana",
+ "item.bananabreadmod.banana_cookie": "Banana Cookie",
+ "item.bananabreadmod.banana_donut": "Banana Donut",
+ "item.bananabreadmod.banana_pudding": "Banana Pudding",
+ "item.bananabreadmod.banana_pie_slice": "Banana Pie Slice",
+ "item.bananabreadmod.vanilla_bean_seeds": "Vanilla Bean Seeds",
+ "item.bananabreadmod.vanilla_bean": "Vanilla Bean",
+ "item.bananabreadmod.banana_seeds": "Banana Seeds",
+ "item.bananabreadmod.banana": "Banana",
+ "item.bananabreadmod.vanilla_extract": "Vanilla Extract",
+ "item.bananabreadmod.banana_chocolate": "Chocolate Banana",
+ "item.bananabreadmod.banana_smoothie": "Banana Smoothie",
+ "item.bananabreadmod.chocolate_bucket": "Chocolate Bucket",
+ "item.bananabreadmod.banana_nuke": "Banana Nuke",
+ "item.bananabreadmod.banana_bunch": "Banana Bunch",
+ "item.bananabreadmod.compressed_banana_one": "Compressed Banana Bunch",
+ "item.bananabreadmod.compressed_banana_two": "Double Compressed Banana Bunch",
+ "item.bananabreadmod.compressed_banana_three": "Triple Compressed Banana Bunch",
+ "item.bananabreadmod.compressed_banana_four": "Quadruple Compressed Banana Bunch",
+ "item.bananabreadmod.banana_cake": "Banana Cake",
+ "item.bananabreadmod.classic_pizza": "Classic Pizza",
+
+ "itemGroup.bananabreadmod": "Banana Bread Mod",
+
+ "block.bananabreadmod.vanilla_bean_crop": "Vanilla Bean Crop",
+ "block.bananabreadmod.banana_crop": "Banana Crop",
+ "block.bananabreadmod.banana_nuke": "Banana Nuke",
+ "block.bananabreadmod.baking_oven": "Baking Oven",
+
+ "fluid_type.bananabreadmod.chocolate_fluid_type": "Chocolate"
+}

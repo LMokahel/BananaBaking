@@ -1,0 +1,22 @@
+{
+  "type": "bananabreadmod:baking",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:vanilla_bean_seeds"
+    },
+    {
+      "item": "bananabreadmod:vanilla_bean_seeds"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "minecraft:fox_food"
+    }
+
+  ],
+  "output": {
+    "count": 1,
+    "item": "bananabreadmod:vanilla_extract"
+  }
+}

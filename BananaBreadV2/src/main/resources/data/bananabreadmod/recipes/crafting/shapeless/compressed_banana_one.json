@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:banana_bunch"
+    },
+    {
+      "item": "bananabreadmod:banana_bunch"
+    },
+    {
+      "item": "bananabreadmod:banana_bunch"
+    },
+    {
+      "item": "bananabreadmod:banana_bunch"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "bananabreadmod:compressed_banana_one"
+  }
+}

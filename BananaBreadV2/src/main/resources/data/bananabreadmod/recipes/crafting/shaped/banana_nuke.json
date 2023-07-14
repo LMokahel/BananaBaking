@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "bananabreadmod:compressed_banana_four"
+    },
+    "W": {
+      "tag": "forge:nether_stars"
+    },
+    "M": {
+      "tag": "forge:gunpowder"
+    }
+  },
+  "pattern": [
+    "BMB",
+    "MWM",
+    "BMB"
+  ],
+  "result": {
+    "item": "bananabreadmod:banana_nuke"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "bananabreadmod:baking",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:chocolate_bucket"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "bananabreadmod:banana_chocolate"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "bananabreadmod:block/classic_pizza_whole"
+    },
+    "bites=1": {
+      "model": "bananabreadmod:block/classic_pizza_slice_1"
+    },
+    "bites=2": {
+      "model": "bananabreadmod:block/classic_pizza_slice_2"
+    },
+    "bites=3": {
+      "model": "bananabreadmod:block/classic_pizza_slice_3"
+    },
+    "bites=4": {
+      "model": "bananabreadmod:block/classic_pizza_slice_4"
+    },
+    "bites=5": {
+      "model": "bananabreadmod:block/classic_pizza_slice_5"
+    },
+    "bites=6": {
+      "model": "bananabreadmod:block/classic_pizza_slice_6"
+    }
+  }
+}

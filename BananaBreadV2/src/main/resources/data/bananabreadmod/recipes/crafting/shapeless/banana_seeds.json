@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:fruits/banana"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "bananabreadmod:banana_seeds"
+  }
+}

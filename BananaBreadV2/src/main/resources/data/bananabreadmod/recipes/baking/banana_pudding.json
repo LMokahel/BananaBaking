@@ -1,0 +1,27 @@
+{
+  "type": "bananabreadmod:baking",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "bananabreadmod:vanilla_extract"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "bananabreadmod:banana_pudding"
+  }
+}

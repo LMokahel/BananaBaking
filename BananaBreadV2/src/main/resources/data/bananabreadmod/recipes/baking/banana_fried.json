@@ -1,0 +1,12 @@
+{
+  "type": "bananabreadmod:baking",
+  "ingredients": [
+    {
+      "item": "bananabreadmod:banana_oiled"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "bananabreadmod:banana_fried"
+  }
+}
